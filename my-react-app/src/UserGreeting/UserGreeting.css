@@ -1,0 +1,17 @@
+
+.welcome-message {
+    font-size: 20px;
+    background-color: rgb(53, 156, 65);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 0;
+}
+.signin-message {
+    font-size: 20px;
+    background-color: rgb(244, 67, 67);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 0;
+}

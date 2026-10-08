@@ -1,18 +1,13 @@
 
 
-import Student from './Student/Student';
-
+import List from './List/List';
 
 function App() {
 
   return (
     <>
-  
-   <Student 
-   name="dick rod"
-   age={20}
-   isStudent={true}
-   />
+      <List />
+
     </>
   )
 }
